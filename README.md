@@ -35,7 +35,7 @@ HTML5 / CSS3 / JavaScript / ReactJS / NodeJS / ExpressJS / MongoDB / Bootstrap /
 - I love video games with deep and complex worlds
 - Playing board games with friends
 - Long hikes and bike rides around Berlin 🌲🌲🌲
-- Enjoying the Berlin nightlife (when possible)
+- Enjoying the Berlin nightlife
 - Traveling, if there is history, and culture involved 
 
 ### You can contact me through LinkedIn or by e-mail for questions and job offers: 
