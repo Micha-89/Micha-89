@@ -33,9 +33,10 @@ HTML5 / CSS3 / JavaScript / ReactJS / NodeJS / ExpressJS / MongoDB / Bootstrap /
 
 - I collect really old coins and artifacts, love to read about history, and could give guided tours of some archeological musea 😄
 - I love video games with deep and complex worlds
-- Playing boardgames with friends
+- Playing board games with friends
 - Long hikes and bike rides around Berlin 🌲🌲🌲
-- Enjoying the Berlin night life (when possible)
-- Traveling, if there is history and culture involved 
+- Enjoying the Berlin nightlife (when possible)
+- Traveling, if there is history, and culture involved 
 
+### Please contact me trough LinkedIn: https://www.linkedin.com/in/michael-raman/
 
