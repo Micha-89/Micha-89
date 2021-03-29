@@ -7,12 +7,6 @@
 
 ## I want to work as a web dev in Berlin!
 
- ### What my previous work experience offers: 
-
- - I worked 3 years as a recruiter, 4 years as a social law advisor, and 2 years as a customer service agent.
- - Clear and good communication, problem-solving skills, and empathy were central in all of these. 
- - Detailed work, analytical thinking and being able to communicate about complex subjects was crucial in my job as a social law advisor.
-
 ### Why I changed careers: 
 
 Learning, discovering new things, and thinking about complex topics is what drives me in life. Web development combines analytical thinking, problem-solving, and continuous learning in a way that is direct and visible. I started coding in march 2020 and had a feeling that it would align with what drives me. And it really did! 😁 I quit my job to follow the 9-week Ironhack bootcamp. And now here I am, ready for the next big step. 😺
@@ -24,6 +18,12 @@ Learning, discovering new things, and thinking about complex topics is what driv
 - A team where people respect and support each other
 - A company where you can take ownership of your work
 - An environment where you can feel the motivation and ambition
+
+ ### What my previous work experience offers: 
+
+ - I worked 3 years as a recruiter, 4 years as a social law advisor, and 2 years as a customer service agent.
+ - Clear and good communication, problem-solving skills, and empathy were central in all of these. 
+ - Detailed work, analytical thinking and being able to communicate about complex subjects was crucial in my job as a social law advisor.
 
 ### I have experience with the following web dev tools, libraries, frameworks, and languages: 
 
