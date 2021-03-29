@@ -25,7 +25,7 @@ Learning, discovering new things, and thinking about complex topics is what driv
  - Clear and good communication, problem-solving skills, and empathy were central in all of these. 
  - Detailed work, analytical thinking and being able to communicate about complex subjects was crucial in my job as a social law advisor.
 
-### I have experience with the following web dev tools, libraries, frameworks, and languages: 
+### I have experience with the following web dev tools: 
 
 HTML5 / CSS3 / JavaScript / ReactJS / NodeJS / ExpressJS / MongoDB / Bootstrap / Git and GitHub / Visual Studio Code / p5.js / Figma
 
