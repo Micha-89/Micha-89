@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there , thank you for visiting my profile 🙌
 
  - 🔭 I’m currently working on my portfolio website and a bugtracking web application!
  - 🌱 I’m currently learning TypeScript and testing with Jest.
