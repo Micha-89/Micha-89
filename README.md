@@ -29,6 +29,11 @@ Learning, discovering new things, thinking about complex topics is what drives m
 
 HTML5 / CSS3 / JavaScript / ReactJS / NodeJS / ExpressJS / MongoDB / Bootstrap / Git and GitHub / Visual Studio Code / p5.js / Figma
 
-### What keeps :
+### What I do for fun besides learning to code :
+
+- I collect really old coins and artifacts, love to read about history, and could give guided tours of some archeological musea 
+- I love video games with deep and complex worlds
+- Playing boardgames with friends
+- Long hikes and bike rides around Berlin 🌲🌲🌲
 
 
