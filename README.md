@@ -38,5 +38,4 @@ HTML5 / CSS3 / JavaScript / ReactJS / NodeJS / ExpressJS / MongoDB / Bootstrap /
 - Enjoying the Berlin nightlife (when possible)
 - Traveling, if there is history, and culture involved 
 
-### Please contact me trough LinkedIn: https://www.linkedin.com/in/michael-raman/
-
+### You can contact me trough LinkedIn or by e-mail for questions and job offers: https://www.linkedin.com/in/michael-raman/ / raman_michael@hotmail.com 
