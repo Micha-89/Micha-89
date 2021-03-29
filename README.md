@@ -22,7 +22,7 @@ Learning, discovering new things, and thinking about complex topics is what driv
  ### What my previous work experience offers: 
 
  - I worked 3 years as a recruiter, 4 years as a social law advisor, and 2 years as a customer service agent.
- - Clear and good communication, problem-solving skills, and empathy were central in all of these. 
+ - Clear and good communication, problem-solving skills, and empathy were central in all of these jobs. 
  - Detailed work, analytical thinking and being able to communicate about complex subjects was crucial in my job as a social law advisor.
 
 ### I have experience with the following web dev tools: 
