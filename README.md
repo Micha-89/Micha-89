@@ -17,7 +17,7 @@
 
 Learning, discovering new things, and thinking about complex topics is what drives me in life. Web development combines analytical thinking, problem-solving, and continuous learning in a way that is direct and visible. I started coding in march 2020 and had a feeling that it would align with what drives me. And it really did! 😁 I quit my job to follow the 9-week Ironhack bootcamp. And now here I am, ready for the next big step. 😺
 
-### Where I would feel home 🏠: 
+### Where I would feel 🏠: 
 
 - A fast-paced and dynamic work environment
 - A space to learn daily and grow continuously 
