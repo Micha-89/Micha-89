@@ -1,7 +1,7 @@
 ### Hi there , thank you for visiting my profile 🙌
 
  - 🔭 I’m currently working on my portfolio website and a bug tracking web application!
- - 🌱 I’m currently learning TypeScript and testing with Jest.
+ - 🌱 I’m learning TypeScript and testing with Jest.
  - 👯 I’m looking to collaborate on MERN stack projects.
  - 📫 How to reach me: www.linkedin.com/in/michael-raman/
 
