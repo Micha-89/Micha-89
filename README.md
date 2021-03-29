@@ -5,7 +5,7 @@
  - 👯 I’m looking to collaborate on MERN stack projects.
  - 📫 How to reach me: https://www.linkedin.com/in/michael-raman/
 
-## I want to work as a web dev in Berlin! More about me: 
+## I want to work as a web dev in Berlin! More about me:
 
  ### What my previous work experience offers: 
 
@@ -19,22 +19,15 @@ Learning, discovering new things, thinking about complex topics is what drives m
 
 ### Where I would feel home 🏠: 
 
-- A fast paced and dynamic work environment
+- A fast-paced and dynamic work environment
 - A space to learn daily and grow continuously 
 - A team where people respect and support each other
 - A company where you can take ownership of your work
-- A space where you can feel the motivation and ambition
+- An environment where you can feel the motivation and ambition
 
-### Which web dev tools and languages I use: 
+### I have experience with the following web dev tools, libraries, frameworks, and languages!: 
 
-- HTML5
-- CSS3
-- JavaScript
-- React
-- NodeJS
-- ExpressJS
-- MongoDB
-- Bootstrap
+HTML5 / CSS3 / JavaScript / ReactJS / NodeJS / ExpressJS / MongoDB / Bootstrap / Git and GitHub / Visual Studio Code / p5.js / Figma
 
 ### What keeps :
 
