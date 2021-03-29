@@ -3,7 +3,7 @@
  - 🔭 I’m currently working on my portfolio website and a bug tracking web application!
  - 🌱 I’m currently learning TypeScript and testing with Jest.
  - 👯 I’m looking to collaborate on MERN stack projects.
- - 📫 How to reach me: https://www.linkedin.com/in/michael-raman/
+ - 📫 How to reach me: linkedin.com/in/michael-raman/
 
 ## I want to work as a web dev in Berlin!
 
@@ -40,4 +40,4 @@ HTML5 / CSS3 / JavaScript / ReactJS / NodeJS / ExpressJS / MongoDB / Bootstrap /
 
 ### You can contact me through LinkedIn or by e-mail for questions and job offers: 
 
-https://www.linkedin.com/in/michael-raman/ / raman_michael@hotmail.com 
+linkedin.com/in/michael-raman/ / raman_michael@hotmail.com 
