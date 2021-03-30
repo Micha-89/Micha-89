@@ -7,6 +7,8 @@
 
 ## I want to work as a web dev in Berlin!
 
+### You can contact me through [LinkedIn](https://www.linkedin.com/in/michael-raman/) or by [e-mail] (raman_michael@hotmail.com ) for questions and job offers.
+
 ### Why I changed careers: 
 
 Learning, discovering new things, and thinking about complex topics is what drives me in life. Web development combines analytical thinking, problem-solving, and continuous learning in a way that is direct and visible. I started coding in march 2020 and had a feeling that it would align with what drives me. And it really did! 😺 I quit my job to follow the 9-week Ironhack bootcamp. And now here I am, ready for the next big step. 🚀
@@ -38,6 +40,5 @@ HTML5 / CSS3 / JavaScript / ReactJS / NodeJS / ExpressJS / MongoDB / Bootstrap /
 - Enjoying the Berlin nightlife
 - Traveling, if there is history and culture involved 
 
-### You can contact me through [LinkedIn](https://www.linkedin.com/in/michael-raman/) or by e-mail for questions and job offers: 
 
- raman_michael@hotmail.com 
+ 
