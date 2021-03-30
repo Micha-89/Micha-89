@@ -1,7 +1,5 @@
 ## Hi there, I'm Michael 👋 👨‍💻
 
-![alt text](https://res.cloudinary.com/dc5skapdx/image/upload/v1617102257/Michael_Raman_Web_developer_2_lw0jvi.png)
-
  - 🔭 I’m currently working on my portfolio website and a bug tracking web application!
  - 🌱 I’m learning TypeScript and testing with Jest.
  - 👯 I’m looking to collaborate on MERN stack projects.
