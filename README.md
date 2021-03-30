@@ -7,7 +7,7 @@
 
 ## I want to work as a web dev in Berlin!
 
-### You can contact me through [LinkedIn](https://www.linkedin.com/in/michael-raman/) or by [e-mail] (raman_michael@hotmail.com ) for questions and job offers.
+### You can contact me through [LinkedIn](https://www.linkedin.com/in/michael-raman/) or by [e-mail](raman_michael@hotmail.com ) for questions and job offers.
 
 ### Why I changed careers: 
 
