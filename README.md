@@ -5,7 +5,7 @@
  - 👯 I’m looking to collaborate on MERN stack projects.
  - 📫 How to reach me: www.linkedin.com/in/michael-raman/
 
-## I want to work as a web dev in Berlin!
+## I am looking for work as a web developer in Berlin!
 
 ### You can contact me through [LinkedIn](https://www.linkedin.com/in/michael-raman/) or by [e-mail](mailto:raman_michael@hotmail.com) for questions and job offers.
 
